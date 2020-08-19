@@ -134,6 +134,11 @@ hr {
   height: 240px;
 }
 
+.artificial iframe {
+  width: 100%;
+  height: 300px;
+}
+
 /* News Cards */
 .news-cards {
   display: grid;
